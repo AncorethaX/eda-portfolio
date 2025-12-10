@@ -33,3 +33,20 @@ Este repositorio contiene un **proyecto práctico estructurado de EDA**, con dat
 
 ## 📂 Estructura del repositorio
 
+
+---
+
+## 📌 Cómo usar este portafolio
+
+1. Ver el análisis en NBViewer o Colab.  
+2. Revisar el código, los gráficos, las conclusiones.  
+3. Si lo deseas, clonar el repo y ejecutar tú mismo (ideal para entrevistas técnica o pruebas).  
+
+---
+
+## 📫 Contacto
+
+🔗 LinkedIn: https://www.linkedin.com/in/xjaque  
+📍 Chile  
+
+
