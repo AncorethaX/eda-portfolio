@@ -15,8 +15,13 @@ Este repositorio contiene un **proyecto práctico estructurado de EDA**, con dat
 
 ## 🔗 Cómo ver el notebook
 
-- **Abrir en Google Colab para ejecutar código**:  
-  [![Abrir en Colab](https://colab.research.google.com/github/AncorethaX/eda-portfolio/blob/main/notebooks/eda_.ipynb)  
+- 📓 **Notebook principal:**  
+  [`notebooks/eda_.ipynb`](https://github.com/AncorethaX/eda-portfolio/blob/main/notebooks/eda_.ipynb)
+
+- ☁ **Abrir en Google Colab:**  
+  <a href="https://colab.research.google.com/github/AncorethaX/eda-portfolio/blob/main/notebooks/eda_.ipynb" target="_blank">
+    <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+  </a>
 
 ---
 
@@ -28,21 +33,19 @@ Este repositorio contiene un **proyecto práctico estructurado de EDA**, con dat
 
 ---
 
-## 📂 Estructura del repositorio
+## 📁 Estructura del repositorio
 
-
----
-
-## 📌 Cómo usar este portafolio
-
-1. Ver el análisis en NBViewer o Colab.  
-2. Revisar el código, los gráficos, las conclusiones.  
-3. Si lo deseas, clonar el repo y ejecutar tú mismo (ideal para entrevistas técnica o pruebas).  
+- **eda-portfolio/**
+  - **datasets/**
+  - **notebooks/**
+    - `eda_.ipynb`
+  - **visualizaciones/**
+  - `Readme.md`
 
 ---
 
 ## 📫 Contacto
-
+📧 Email: xjaqueneira@gmail.com  
 🔗 LinkedIn: https://www.linkedin.com/in/xjaque  
 📍 Chile  
 
