@@ -16,10 +16,11 @@ Este repositorio contiene un **proyecto práctico estructurado de EDA**, con dat
 ## 🔗 Cómo ver el notebook
 
 - **Ver notebook renderizado (HTML)** — usa NBViewer:  
-  [![Ver en NBViewer](https://img.shields.io/badge/Ver%20Notebook-%20NBViewer-blue)](https://nbviewer.org/github/AncorethaX/eda-portfolio/blob/main/notebooks/ejemplo_analisis.ipynb)  
+  [![Ver en NBViewer](https://nbviewer.org/github/AncorethaX/eda-portfolio/blob/main/notebooks/eda_.ipynb)  
 
 - **Abrir en Google Colab para ejecutar código**:  
-  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AncorethaX/eda-portfolio/blob/main/notebooks/ejemplo_analisis.ipynb)  
+  [![Abrir en Colab](https://colab.research.google.com/github/AncorethaX/eda-portfolio/blob/main/notebooks/eda_.ipynb
+)  
 
 ---
 
