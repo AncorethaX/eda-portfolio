@@ -1,25 +1,35 @@
-# 📊 Análisis Exploratorio de Datos (EDA)
+# 📊 Análisis Exploratorio de Datos (EDA) — Portafolio
 
-Este repositorio contiene un proyecto práctico de **Análisis Exploratorio de Datos**, donde aplico limpieza básica, visualizaciones y algunas métricas descriptivas.
+Este repositorio contiene un **proyecto práctico estructurado de EDA**, con datos, notebooks, gráficos y resultados. Perfecto para mostrar habilidades en análisis de datos.
 
-## 🔍 Objetivos
-- Explorar un conjunto de datos usando Python.
-- Detectar outliers, valores perdidos y tendencias.
-- Generar visualizaciones con Matplotlib.
-- Extraer conclusiones claras orientadas a negocio.
+---
 
-## 🛠️ Tecnologías
-- Python  
-- Pandas  
-- Matplotlib  
+## 🎯 Qué encontrarás
+
+- 🧮 Datasets (simulados / limpios) ─ en `/data/`  
+- 📓 Notebook con análisis paso a paso ─ en `/notebooks/`  
+- 📈 Gráficos exportados ─ en `/images/`  
+- ✅ Estructura clara y organizada para portafolio profesional  
+
+---
+
+## 🔗 Cómo ver el notebook
+
+- **Ver notebook renderizado (HTML)** — usa NBViewer:  
+  [![Ver en NBViewer](https://img.shields.io/badge/Ver%20Notebook-%20NBViewer-blue)](https://nbviewer.org/github/AncorethaX/eda-portfolio/blob/main/notebooks/ejemplo_analisis.ipynb)  
+
+- **Abrir en Google Colab para ejecutar código**:  
+  [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AncorethaX/eda-portfolio/blob/main/notebooks/ejemplo_analisis.ipynb)  
+
+---
+
+## 🛠️ Tecnologías usadas
+
+- Python · Pandas · Matplotlib  
 - Jupyter Notebook / VSCode  
+- Estructura y organización de proyectos  
 
-## 📁 Contenido del repo
-- `/notebooks/` →      🔗 [![Abrir en Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AncorethaX/eda-portfolio/blob/main/notebooks/ejemplo_analisis.ipynb)
+---
 
-- `/images/` → gráficos exportados  
-- `/data/` → dataset (si no contiene datos sensibles)  
+## 📂 Estructura del repositorio
 
-## 🚀 Próximas mejoras
-- Añadir más gráficos (boxplots, histogramas, correlaciones)
-- Comparar resultados con Power BI o Excel
