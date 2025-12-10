@@ -19,8 +19,7 @@ Este repositorio contiene un **proyecto práctico estructurado de EDA**, con dat
   [![Ver en NBViewer](https://nbviewer.org/github/AncorethaX/eda-portfolio/blob/main/notebooks/eda_.ipynb)  
 
 - **Abrir en Google Colab para ejecutar código**:  
-  [![Abrir en Colab](https://colab.research.google.com/github/AncorethaX/eda-portfolio/blob/main/notebooks/eda_.ipynb
-)  
+  [![Abrir en Colab](https://colab.research.google.com/github/AncorethaX/eda-portfolio/blob/main/notebooks/eda_.ipynb)  
 
 ---
 
