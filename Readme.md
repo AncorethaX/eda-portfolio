@@ -35,18 +35,10 @@ Este repositorio contiene un **proyecto práctico estructurado de EDA**, con dat
 
 ## 📁 Estructura del repositorio
 
-- **eda-portfolio/**
-  - **datasets/**
-  - **notebooks/**
-    - `eda_.ipynb`
-  - **visualizaciones/**
-  - `Readme.md`
-
----
-
-## 📫 Contacto
-📧 Email: xjaqueneira@gmail.com  
-🔗 LinkedIn: https://www.linkedin.com/in/xjaque  
-📍 Chile  
-
-
+```markdown
+📁 eda-portfolio  
+ ├── 📁 datasets  
+ ├── 📁 notebooks  
+ │     └── 📓 eda_.ipynb  
+ ├── 📁 visualizaciones  
+ └── 📄 Readme.md
